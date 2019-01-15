@@ -1,11 +1,11 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Kian Ahrabian | M.Sc. Student
-title: Kian Ahrabian | M.Sc. Student
+name: Kian Ahrabian's Personal Webpage
+title: Kian Ahrabian's Personal Webpage
 email: kian.ahrabian@mail.mcgill.ca
 description: >
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal webpage of Kian Ahrabian. Based on [al-folio](https://github.com/alshedivat/al-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -32,7 +32,7 @@ blog_name: It's a geeky life
 blog_description: a grad student in a country far far away ...
 
 # Pagination
-paginate: 4
+paginate: 5
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
