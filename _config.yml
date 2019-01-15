@@ -1,37 +1,35 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
-description: > # this means to ignore newlines until "url:"
+name: Kian Ahrabian | M.Sc. Student
+title: Kian Ahrabian | M.Sc. Student
+email: kian.ahrabian@mail.mcgill.ca
+description: >
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+url: https://kahrabian.me
+baseurl: ''
+last_updated: 14 Jan 2019
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+github_username: kahrabian
+twitter_username: kahrabian
+linkedin_username: kahrabian
+scholar_userid: pwUdiCYAAAAJ
+orcid_id: 0000-0002-6606-9735
+contact_note:
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-105929253-1
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: It's a geeky life
+blog_description: a grad student in a country far far away ...
 
 # Pagination
 paginate: 4
@@ -44,12 +42,12 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
+show_social_icons: true
+enable_anchorjs: true
+enable_katex: true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -60,9 +58,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 news_limit: 5
 
@@ -80,15 +75,14 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
-    - jekyll/scholar
-    - jemoji
+  - jekyll-email-protect
+  - jekyll-paginate
+  - jekyll/scholar
+  - jemoji
 
 # Jekyll-Scholar
 scholar:
-
-  last_name: Einstein
+  last_name: Ahrabian
 
   style: apa
   locale: en

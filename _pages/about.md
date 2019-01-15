@@ -1,16 +1,13 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Kian</strong> Ahrabian
+description: M.Sc. Student at <a href="http://www.cs.mcgill.ca/">School of Computer Science</a>, <a href="http://www.mcgill.ca/">McGill University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
 news: true
 social: true
