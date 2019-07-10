@@ -16,4 +16,3 @@ social: true
 I am an M.Sc. student at [McGill University](http://www.mcgill.ca/) at the [School of Computer Science](http://www.cs.mcgill.ca/). Currently, I am working as a Research Assistant under the supervision of professor [Jin Guo](http://jguo-web.com/) in [Knowledge Enhanced Software Connectivity (KESEC)](http://jguo-web.com/lab.html) lab. Previously, I received my B.Sc. in Computer Science from the [School of Mathematics, Statistics and Computer Science](http://science.ut.ac.ir/en/math) at the [University of Tehran](https://ut.ac.ir/en).
 
 My research interests lie at the intersection of Machine Learning, Natural Language Processing, and Software Engineering, with a current emphasis on the Representation Learning.
-
