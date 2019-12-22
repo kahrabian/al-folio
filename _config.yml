@@ -11,7 +11,7 @@ footer_text: >
 
 url: https://www.cs.mcgill.ca/~kahrab
 baseurl: ''
-last_updated: 9 Jul 2019
+last_updated: 22 Dec 2019
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -32,10 +32,11 @@ orcid_id: 0000-0002-6606-9735
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Kian_Ahrabian # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note:
+contact_note: >
+  You can best reach me by email.
 
 google_analytics: UA-105929253-1
 
