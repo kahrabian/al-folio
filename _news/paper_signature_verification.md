@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-09 00:00:00-0000
+date: 2018-11-09
 inline: true
 ---
 
